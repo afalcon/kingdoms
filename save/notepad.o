@@ -1,0 +1,8 @@
+transparency ([])
+identity ({"notepad",})
+real_name "notepad"
+value 0
+short_desc "a little blue notepad"
+long_desc "Commands:\n  messages       \n  add <message>  \n  del <num>      \n\n\n"
+read_msg 0
+messages ({"hehe","you smell","hihi",})

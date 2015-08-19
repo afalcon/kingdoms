@@ -1,0 +1,26 @@
+Total number of rooms: 101
+
+Exploration points:
+every room (every line) has visit(5).
+
+/players/bart/greed/rooms/beach6.c (init)
+/players/bart/greed/rooms/harbor1.c (smell)
+/players/bart/greed/rooms/harbor2.c (init)
+/players/bart/greed/rooms/house1.c (cover) (smell)
+/players/bart/greed/rooms/house2.c (init) 
+/players/bart/greed/rooms/house3.c (smell) 
+/players/bart/greed/rooms/house4.c (init) 
+/players/bart/greed/rooms/house5.c (init)
+/players/bart/greed/rooms/house12.c (init)
+/players/bart/greed/rooms/jail.c (init)
+/players/bart/greed/rooms/library.c (init)
+/players/bart/greed/rooms/magic_shop.c (init)
+/players/bart/greed/rooms/path1.c (init)
+/players/bart/greed/rooms/pier1.c (listen)
+/players/bart/greed/rooms/pier9.c (dive)
+/players/bart/greed/rooms/square1.c (sit) (listen)
+/players/bart/greed/rooms/square2.c (enter)
+/players/bart/greed/rooms/square3.c (init)
+/players/bart/greed/rooms/tower3.c (init)
+/players/bart/greed/rooms/wharf4.c (break)
+

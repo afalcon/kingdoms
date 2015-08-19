@@ -1,0 +1,14 @@
+gimme_an_adjective
+  1. If you do this:                                                      
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_an_adjective();   
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_an_adjective(0);  
+
+     it will return an adjective who's first letter is a consonant.       
+
+  1. If you do this:                                                      
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_an_adjective(1);  
+
+     it will return an adjective who's first letter is a vowel.           
+

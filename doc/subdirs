@@ -1,0 +1,59 @@
+******************************
+  B.A.D. ===> Big Ass Domain
+******************************
+
+   Directory                                Coder(s)
+   ---------                                --------
+
+Administration Building ******************* Robban
+   /players/Bad/Admin/
+
+Arena ************************************* Gabriel
+   /players/Bad/Arena/
+
+Carnival ********************************** Frenzy, Jack, Lordcrane
+   /players/Bad/Carnival/
+
+Cathedral ********************************* Aslan 
+   /players/Bad/Cathedral/
+
+Hospital ********************************** Dodger, Vertigo
+   /players/Bad/Hospital/Main/
+
+Jail ************************************** Chasca 
+   /players/Bad/Jail/
+
+Mansion *********************************** Bellarmin, Lordcrane
+   /players/Bad/Mansion/
+
+Park ************************************** Lordcrane
+   /players/Bad/Park/
+
+Sewage ************************************ Lordcrane 
+   /players/Bad/Sewage/ 
+
+Town ************************************** Aslan, Frenzy, Lordcrane
+   /players/Bad/Town/ 
+
+Zoo *************************************** Blood, Robban
+   /players/Bad/Zoo/
+
+
+NOTE: Please dump all files in the appropriate directory.
+
+   Directory                       What files? 
+   ---------                       -----------
+
+   /players/Bad/Armour/            all armour
+   /players/Bad/Booze/             all kinds of alcohol
+   /players/Bad/Doc/               all documents, help files, plans, ideas, 
+                                   suggestions, or code changes 
+   /players/Bad/Food/              all kinds of food
+   /players/Bad/Graphics/          all maps, pictures, and naked gifs
+   /players/Bad/Junk/              some of jack's stuff
+   /players/Bad/Monsters/          all monsters (those which aren't virtual)
+   /players/Bad/Objects/           all objects, items, treasures, things
+   /players/Bad/Weapons/           all weapons
+   /players/Bad/include/           all .h files (#defines and such)
+   /players/Bad/log/               all error, report and log files
+

@@ -1,0 +1,25 @@
+transparency ([])
+identity ({"pin","hook","vroomvroomgalleycaptainshook",})
+real_name "pin"
+unique_name 0
+are_we_plural 0
+value 0
+items ({})
+short_desc "a tiny pin shaped like a galley captain's hook"
+long_desc "This hook identifies you as being one of the Competitors.  It sets you apart from the rest of the land-loving losers that you encounter every day, for not many can call themselves galley captains.  Try squeezing it sometimes.\n"
+light_message 0
+read_msg 0
+galley_owner 0
+galley_shipname 0
+galley_longdesc 0
+galley_hp 300
+galley_wc 30
+galley_ac 30
+galley_cannons 0
+galley_cannonballs 0
+galley_aimers 0
+galley_firers 0
+galley_rowers 0
+galley_scanners 0
+galley_victories 1
+galley_frequency 0

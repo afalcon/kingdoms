@@ -1,0 +1,13 @@
+gimme_a_name
+  1. If you do this:   
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_a_name(str); 
+
+     it will return a random name, with str as the seed.                  
+
+  2. If you do this:                                          
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_a_name(); 
+
+     it will use its own seed, and return a random name.                  
+

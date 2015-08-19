@@ -1,0 +1,10 @@
+#define CAP(x) capitalize(x)
+#define CTPQN capitalize(this_player()->query_name())
+#define RAND "/wiz/b/bart/std/randomizer"        
+#define ARM "/wiz/b/bart/armour/"
+#define DOC "/wiz/b/bart/doc/"
+#define OBJ "/wiz/b/bart/objects/"
+#define MON "/wiz/b/bart/monsters/"
+#define STD "/wiz/b/bart/std/"
+#define WEA "/wiz/b/bart/weapons/"
+#define ROOM "/wiz/b/bart/rooms/"

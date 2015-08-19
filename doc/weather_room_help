@@ -1,0 +1,23 @@
+
+Welcome to the weather control room. It's real easy to make your rooms 
+be affected by weather. Hehe, I changed the weather thingy again, oops! 
+Don't cut off my thingy coz it's even easier now.  Do this instead:
+
+include "/areas/Misc/Bad/c/include/defs.h"
+inherit "/areas/Misc/Bad/c/inherit/outdoor_room";
+
+  reset(arg) {
+    ::reset(arg);
+    if(arg) return;
+    .......etc,etc
+    set_room_desc("This is a room, this is where all the junk in the old "+
+                  "set_long should be placed. etc. etc. \n");
+    set_long(query_room_desc());
+    .......etc,etc
+  }
+
+Note: you don't need all that query_original_long_desc(), WEATHER_PLEASE,
+      NO_WEATHER_PLEASE, SNOW_PLEASE, do_snow_throw(), etc etc crap.
+      The way the old control room worked was really ugly. Hopefully this
+      new way is easier to understand and use.
+

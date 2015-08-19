@@ -1,0 +1,18 @@
+gr_use 
+How to use the generic randomizer.
+
+  1. In your monster code, add this in the reset() function:               
+          /players/Bad/Objects/generic_randomizer"->blah();             
+
+     where blah() can be any of the functions defines in the gen. rand.    
+     to remind you again, the functions in the gen. rand. are:             
+          gimme_a_name()                                             
+          gimme_an_adjective()                                             
+          gimme_an_adj_phrase()                                            
+          gimme_a_prof()                                            
+          gimme_a_male_prof()                                            
+          gimme_a_female_prof()                                            
+
+  2. If you still are confused, read the help docs about the specific      
+     functions.                                                            
+

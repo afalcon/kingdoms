@@ -1,0 +1,17 @@
+custom_name "a little blue goat"
+all_func ({"query_al_title","query_access_list","query_every_player","query_pat","test_invis","query_msgin","query_msgout","query_mmsgin","query_mmsgout","query_hit_point","short","query_max_hp","query_max_sp","query_title","query_pre_title","query_wizlines","query_ld_room","query_busy","query_attacking_ob","query_penalty","query_mailaddr","query_brief","query_echo","query_intoxication","query_intoxination","query_stuffed","query_soaked","query_quests","query_real_name","query_path","query_action_points","query_max_action_points","query_account","query_player_level","query_width","query_expl_score","query_tended","query_guild","query_teamname","query_te","query_team","query_hunted","query_test_char","query_test_who","query_married","query_married_too","query_married_when","query_life_e","query_money","query_exp","query_frog","query_alignment","query_npc","query_invis","query_db","lf_fo","query_weapon","query_level","query_attack","query_encumbered","query_ghost","query_hp","query_wimpy","query_current_room","query_spell_points","query_wc","query_wc2","query_ac","query_age","query_str","query_int","query_con","query_dex","query_tmp_str","query_tmp_int","query_tmp_con","query_tmp_dex","query_no_corpse","query_head_armour","query_carry","query_stats","query_gender_string","query_pronoun","query_possessive","query_objective","query_skill","query_alt_name","query_alias","query_type","query_value","query_worn","query_name","armour_class","query_db","query_info","weapon_class","query_weight","query_hand","query_wield","query_dest_dir","query_items","query_property","query_material",})
+channels ({})
+says (["drop":"%s drops %s on the ground.","CPR":"%s gives CPR to %s.","poslight":"%s's %s starts to shine intensely!","lookfade":"\nThe light from the %s fades.\n","patch":"%s sticks his manly hands down %s's throat.","neglight":"A cloud of darkness emmanates from %s's %s!","com_monster":"%s gestures and fire stabs down from the sun. %s appears!","com_item":"With a gesture of his hands %s materializes %s.","dest":"Sunfire erupts from %s's eyes destroying %s","take":"%s pries %s off of the ground.","look":"%s utters an ancient word.\n%s's %s shines briefly for a moment.\nYou see:\n","visit":"%s has graced you with his presence. Feel honored.",])
+hidden 0
+locked 0
+teller 1
+mark $776936330@players/Bad/Weather/control$
+marks ([])
+spc "                                                        "
+tab "										"
+robe_loaded 1
+followed_obj ""
+following_obj 0
+changing_obj $776905982@obj/player/wizard#560$
+guild_count (["healers profession":1,0:2,"demon guild":1,"fighters":1,"Knights of Kordar":1,"assassins profession":3,"The evil powers of Magic":1,])
+guild_max 3

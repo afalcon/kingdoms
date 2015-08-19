@@ -1,0 +1,14 @@
+gimme_a_prof
+  1. If you do this:   
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_a_prof(); 
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_a_prof(1);
+
+     it will return a random male profession.                  
+
+  2. If you do this:                                          
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_a_prof(2);
+
+     it will return a random female profession.                
+

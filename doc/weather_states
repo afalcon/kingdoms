@@ -1,0 +1,14 @@
+Weather states:
+
+0   Clear skies
+1   Scattered clouds
+2   Partly cloudy
+3   Cloudy
+4   Light rain
+5   Steady rain
+6   Heavier rain
+7   Thunderstorm
+8   Hail storm
+9   Lightning storm
+10  Snow
+

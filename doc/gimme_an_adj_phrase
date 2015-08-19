@@ -1,0 +1,14 @@
+gimme_an_adj_phrase
+  1. If you do this:                                                      
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_an_adj_phrase();  
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_an_adj_phrase(0); 
+
+     it will return: "A <adjective>"                                    
+
+  1. If you do this:                                                      
+
+     "/areas/Misc/Bad/c/Objects/generic_randomizer"->gimme_an_adj_phrase(1); 
+
+     it will return: "An <adjective>"                                   
+
